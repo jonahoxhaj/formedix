@@ -3,7 +3,7 @@
 The libraries used for this application are:
 
 1. 
-<dependency>
+		<dependency>
 			<groupId>com.opencsv</groupId>
 			<artifactId>opencsv</artifactId>
 			<version>5.3</version>
@@ -13,7 +13,7 @@ The libraries used for this application are:
 Used to read the file since it is a csv file.
 
 2. 
-<dependency>
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
@@ -21,7 +21,7 @@ Used to read the file since it is a csv file.
 Used to make the application a web app.
 
 3. 
-<dependency>
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
