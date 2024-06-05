@@ -1,4 +1,4 @@
-# formedix
+# java app
 
 The libraries used for this application are:
 
